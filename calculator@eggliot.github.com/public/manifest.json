@@ -1,0 +1,21 @@
+{
+  "id": "calculator@eggliot.github.com",
+  "isAudioSource": false,
+  "isScreenSaver": false,
+  "isWebApp": true,
+  "isLocalApp": false,
+  "requires": [
+    ""
+  ],
+  "label": "Calculator",
+  "version": "0.8.8",
+  "description": "A calculator to calculate all the calculations your cold calculated heart can comprehend.",
+  "author": "Eggliot",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "homepage": "deskthing.app",
+  "repository": "deskthing.app"
+}
